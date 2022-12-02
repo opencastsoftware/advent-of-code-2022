@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="day02.RockPaperScissorsTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-12-02T14:11:06" hostname="FVFZV02BL414" time="0.037">
+  <properties/>
+  <testcase name="Acceptance test" classname="day02.RockPaperScissorsTest" time="0.023"/>
+  <testcase name="Rock Vs Paper will always be 8" classname="day02.RockPaperScissorsTest" time="0.006"/>
+  <testcase name="Calculate pair will return the sum of the points for winning and for the thing you win with" classname="day02.RockPaperScissorsTest" time="0.001"/>
+  <testcase name="When I have A then I should get ROCK" classname="day02.RockPaperScissorsTest" time="0.002"/>
+  <testcase name="When I have B then I should get PAPER" classname="day02.RockPaperScissorsTest" time="0.001"/>
+  <testcase name="When I have C then I should get SCISSORS" classname="day02.RockPaperScissorsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
